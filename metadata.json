@@ -1,0 +1,5 @@
+{
+  "name": "Dominant Color Survey",
+  "description": "An interactive survey to identify dominant colors in a series of images. Users can pick colors with a magnifier tool, edit their selections, and submit the results, which can be collected in a Google Sheet.",
+  "requestFramePermissions": []
+}
