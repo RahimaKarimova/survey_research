@@ -1,7 +1,7 @@
 import { SurveyResult } from '../types';
 
 // Read from Vite env
-const SCRIPT_URL = import.meta.env.VITE_GOOGLE_SHEET_URL || 'https://script.google.com/macros/s/AKfycbxq9RaBVPv3wH9RM1-KosDePjikmP-nbXGtwvxzVDnUVykyREN4yfkoRnaxg3NSdm7FoA/exec';
+const SCRIPT_URL = import.meta.env.VITE_GOOGLE_SHEET_URL || '';
 
 /**
  * Submit survey payload to Google Apps Script without triggering CORS preflight.
